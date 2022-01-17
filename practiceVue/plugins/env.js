@@ -1,0 +1,1 @@
+// const getWeatherUrl = () => "https://weather.tsukumijima.net/api/forecast/"
